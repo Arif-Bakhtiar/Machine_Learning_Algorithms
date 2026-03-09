@@ -61,7 +61,4 @@ The model predicts CGPA based on the number of study hours.
 
 ## Results
 
-After training, the regression model learns the relationship between study hours and CGPA and generates a regression line showing the trend.
-
-## F
-
+After training, the regression model learns the relationship between study hours and CGPA and generates a regression line showing the trend.                                                          
